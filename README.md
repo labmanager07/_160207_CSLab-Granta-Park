@@ -15,5 +15,4 @@ Logging Engineering:
 -initial assessment
 -what steps have been taken
 -how long did you work on it?
--what parts need to be ordered
--
+-what parts need to be ordered (part # and description)
